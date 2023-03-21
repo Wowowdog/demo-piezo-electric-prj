@@ -15,7 +15,7 @@ This is a demo script for piezo electric motor control on STM32/ARM M7 cortex.
 ![alt text](https://github.com/Wowowdog/demo-piezo-electric-prj/blob/master/png/ctl1.png?raw=true)
 
 ## image snippet
-![alt text](https://github.com/Wowowdog/demo-VCM-prj/blob/master/png/mag1.png?raw=true)
+![alt text](https://github.com/Wowowdog/demo-piezo-electric-prj/blob/master/png/mag1.png?raw=true)
 
 ## associated doc.
 [filter design note](https://drive.google.com/file/d/1aqMnyfdr6wfS0KhNzTkJJ_yOEIsFtxLj/view?usp=share_link)
