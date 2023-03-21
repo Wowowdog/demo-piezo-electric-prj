@@ -2,8 +2,8 @@
 ## introduction
 This is a demo script for piezo electric motor control on STM32/ARM M7 cortex. 
 ## feature
-* muti-channel ADC reading
-* direct memory access b/tw ADC & RAM
+* FIFO ADC ring buffer
+* direct memory access b/t ADC & RAM
 * Kalman filter (optional)
 * discrete controller
 * both open or close model applicable  
